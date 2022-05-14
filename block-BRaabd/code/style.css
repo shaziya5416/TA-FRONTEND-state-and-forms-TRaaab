@@ -1,0 +1,9 @@
+div .buttons{
+    margin: auto 500px;
+
+}
+button{
+    font-size: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
